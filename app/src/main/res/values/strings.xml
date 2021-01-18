@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">TickTackToe</string>
+    <string name="stats">Stats</string>
+    <string name="bluetooth">Bluetooth</string>
+    <string name="play_with_ai">Play with AI</string>
+    <string name="field">Field:</string>
+    <string name="minus">–</string>
+    <string name="plus">+</string>
+    <string name="field_size">%1$sx%2$s</string>
+    <string name="moves_count">Moves: %1$s</string>
+    <string name="retry">Retry</string>
+    <string name="home">Home</string>
+    <string name="you_lose">You lose!</string>
+    <string name="you_win">You win!</string>
+    <string name="tie">Tie!</string>
+    <string name="unfinished_game">You have unfinished game.\nDo you want to continue?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+</resources>
